@@ -1,4 +1,4 @@
-package course;
+package program;
 
 import java.util.Date;
 
